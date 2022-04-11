@@ -1,0 +1,85 @@
+body {
+  margin:0px;
+  padding:0px;
+}
+
+.contenedor{
+  max-width: 100vw;
+  margin: auto;
+}
+
+.header .navbar {
+  background-color: transparent;
+}
+
+.carousel-item{
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  background-size: cover;
+}
+
+#quienesSomos{
+  height: 300px;
+  padding: 28px;
+  margin-top: 0px;
+}
+
+#Destacados{
+  height: 6rem;
+  padding-top: 28px;
+  margin-top: 4rem;
+}
+
+#Contacto{
+  height: 6rem;
+  padding-top: 5rem;
+  margin-top: 28rem;
+}
+
+.lineaQsomos {
+  border-top: 1px solid #333333;
+  height: 15px;
+  max-width:100%;
+  padding:0;
+  margin-top:2rem;
+  margin-bottom: 2rem;
+}
+
+.lineaDestacados {
+  border-top: 1px solid #333333;
+  height: 0px;
+  max-width:100%;
+  padding:0;
+  margin-top: 0px;;
+  margin-bottom: 2rem;
+}
+
+.lineaContacto {
+  border-top: 1px solid #333333;
+  height: 0px;
+  max-width:100%;
+  padding:0;
+  margin-top: 0px;;
+  margin-bottom: 2rem;
+}
+
+.card-text{
+  height:8rem;
+}
+
+#colorTxt{
+  color: aliceblue;
+}
+
+#imgDestacados{
+  height:12rem;
+}
+
+#piepagina{
+  background-color:rgb(39, 174, 219);
+  padding:2rem;
+  margin:0px;
+  text-align:justify;
+}
+
